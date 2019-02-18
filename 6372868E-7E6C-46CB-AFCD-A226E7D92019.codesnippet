@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>show</string>
+	<string>debug</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[KDHUD show];</string>
+	<string>// 调试ing...</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5BB37026-D84D-4A38-B7EB-5461B6A23C27</string>
+	<string>6372868E-7E6C-46CB-AFCD-A226E7D92019</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>在改某个bug时涉及到多个文件的不同位置标记好，方便在搜索框跳转，改完统一删除</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SVHUD_Show</string>
+	<string>注释：调试ing</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

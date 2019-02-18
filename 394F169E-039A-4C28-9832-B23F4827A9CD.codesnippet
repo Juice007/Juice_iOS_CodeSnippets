@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>show</string>
+	<string>httpRequest</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[KDHUD show];</string>
+	<string>#pragma mark - HttpRequest:&lt;#request#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5BB37026-D84D-4A38-B7EB-5461B6A23C27</string>
+	<string>394F169E-039A-4C28-9832-B23F4827A9CD</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SVHUD_Show</string>
+	<string>网络请求pragma mark</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

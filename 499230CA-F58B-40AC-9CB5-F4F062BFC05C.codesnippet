@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>show</string>
+	<string>scn</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[KDHUD show];</string>
+	<string>static NSString * const &lt;#KDIMSendMesasge#&gt; = @&lt;#"instantMsg/sendCloudUserMsg"#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5BB37026-D84D-4A38-B7EB-5461B6A23C27</string>
+	<string>499230CA-F58B-40AC-9CB5-F4F062BFC05C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SVHUD_Show</string>
+	<string>static_const_NSString</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>show</string>
+	<string>imui</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[KDHUD show];</string>
+	<string>// IMUI:&lt;#code#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5BB37026-D84D-4A38-B7EB-5461B6A23C27</string>
+	<string>4CF1B0AB-6027-422D-9CCC-F5E3A6503199</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>SVHUD_Show</string>
+	<string>即时通讯UI部分注意点</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

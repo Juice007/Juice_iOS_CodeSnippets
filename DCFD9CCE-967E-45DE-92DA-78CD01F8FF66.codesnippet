@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[SVProgressHUD dismiss];</string>
+	<string>[KDHUD dismiss];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DCFD9CCE-967E-45DE-92DA-78CD01F8FF66</string>
 	<key>IDECodeSnippetLanguage</key>

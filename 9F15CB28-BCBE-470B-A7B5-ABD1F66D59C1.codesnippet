@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[self showEmptyViewWithImage:IMG_EMPTY_DATA text:LVLocalizedString(@"Sorry, the data of this list is empty") detailText:nil buttonTitle:nil buttonAction:nil];</string>
+	<string>[self showEmptyViewWithImage:UIImageMake(@"kd_noDataView") text:@"&lt;#暂无数据#&gt;" detailText:nil buttonTitle:nil buttonAction:nil];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9F15CB28-BCBE-470B-A7B5-ABD1F66D59C1</string>
 	<key>IDECodeSnippetLanguage</key>

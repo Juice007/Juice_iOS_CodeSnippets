@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[self showEmptyViewWithImage:IMG_NO_NETWORK text:LVLocalizedString(@"Bad Network Connection Please check your network") detailText:nil buttonTitle:nil buttonAction:nil];</string>
+	<string>[self showEmptyViewWithImage:UIImageMake(@"kd_noNetworking") text:@"网络连接失败" detailText:nil buttonTitle:nil buttonAction:nil];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C58A44EA-1C7B-4B21-8431-0D608864329B</string>
 	<key>IDECodeSnippetLanguage</key>

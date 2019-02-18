@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>[SVProgressHUD showInfoWithStatus:@"&lt;#info#&gt;"];</string>
+	<string>[KDHUD showInfoWithStatus:@"&lt;#info#&gt;"];</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E64CD0D1-9CE4-4674-90D1-B7FB588B7D36</string>
 	<key>IDECodeSnippetLanguage</key>
