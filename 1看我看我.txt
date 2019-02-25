@@ -1,0 +1,7 @@
+1.换电脑时将/Users/juice/Library/Developer/Xcode/UserData/CodeSnippets路径下的所有文件复制到本文件夹下
+
+2.将/Users/juice/Library/Developer/Xcode/UserData/KeyBindings路径下的文件复制到子文件夹KeyBindings下
+
+3.然后将改动push到Git上
+
+4.新电脑pull下来，放到对应的文件夹下就能找回熟悉的感觉啦~
