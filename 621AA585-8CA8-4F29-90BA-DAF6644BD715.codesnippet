@@ -3,22 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>httpRequest</string>
+	<string>kdlog</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - HttpRequest:&lt;#request#&gt;
-- (void)request&lt;#method#&gt; {
-
-}</string>
+	<string>KDLog(@"&lt;#log#&gt;");</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>394F169E-039A-4C28-9832-B23F4827A9CD</string>
+	<string>621AA585-8CA8-4F29-90BA-DAF6644BD715</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>网络请求pragma mark</string>
+	<string>KDLog打印</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
