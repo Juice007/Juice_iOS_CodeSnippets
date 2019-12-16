@@ -3,21 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pa</string>
+	<string>labelinit</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#name#&gt;;</string>
+	<string>self.&lt;#label#&gt; = [[UILabel alloc] init];
+self.&lt;#label#&gt;.text = @"&lt;#text#&gt;";
+self.&lt;#label#&gt;.font = SSZFontSize(&lt;#size#&gt;);
+self.&lt;#label#&gt;.textColor = HexColor(@"&lt;#color#&gt;");
+self.&lt;#label#&gt;.textAlignment = &lt;#align#&gt;;
+[&lt;#self#&gt; addSubview:self.&lt;#label#&gt;];
+[self.&lt;#label#&gt; mas_makeConstraints:^(MASConstraintMaker *make) {
+    
+}];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9F96E543-5450-452B-9CA8-8BCCD8D841ED</string>
+	<string>19CB2039-5F57-4307-99E8-3AFD7EE0B892</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property For Assign</string>
+	<string>UILabel_Init</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

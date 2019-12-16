@@ -9,11 +9,13 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// Juice:&lt;#juice#&gt;</string>
+	<string>// Juice 2019/&lt;#month#&gt;/&lt;#day#&gt;:&lt;#comment#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A966BAAE-F001-4628-A7B9-9F46598CB3B5</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Comment_Juice</string>
 	<key>IDECodeSnippetUserSnippet</key>
