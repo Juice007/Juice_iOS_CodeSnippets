@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>buttoninit</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>self.&lt;#btn#&gt; = [UIButton buttonWithType:UIButtonTypeCustom];
+self.&lt;#btn#&gt;.titleLabel.font = [UIFont weg_t&lt;#4#&gt;Font];
+[self.&lt;#btn#&gt; setImage:[UIImage imageNamed:@"&lt;#name#&gt;"] forState:UIControlStateNormal];
+[self.&lt;#btn#&gt; setTitle:@"&lt;#text#&gt;" forState:UIControlStateNormal];
+[self.&lt;#btn#&gt; setTitleColor:[UIColor weg_&lt;#color#&gt;] forState:UIControlStateNormal];
+[self.&lt;#btn#&gt; addTarget:self action:@selector(&lt;#onClickBtn#&gt;) forControlEvents:UIControlEventTouchUpInside];
+[&lt;#self#&gt; addSubview:self.&lt;#btn#&gt;];
+[self.&lt;#btn#&gt; mas_makeConstraints:^(MASConstraintMaker *make) {
+        
+    }];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>9ABA4A42-E7CC-43B2-AFDE-AE2B7900C062</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UIButton_Init</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

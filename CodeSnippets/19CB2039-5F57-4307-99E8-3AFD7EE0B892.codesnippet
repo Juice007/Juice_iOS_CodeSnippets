@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>labelinit</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>self.&lt;#label#&gt; = [[UILabel alloc] init];
+self.&lt;#label#&gt;.text = @"&lt;#text#&gt;";
+self.&lt;#label#&gt;.font = [UIFont weg_t&lt;#4#&gt;Font];
+self.&lt;#label#&gt;.textColor = [UIColor weg_&lt;#color#&gt;];
+self.&lt;#label#&gt;.textAlignment = &lt;#align#&gt;;
+[&lt;#self#&gt; addSubview:self.&lt;#label#&gt;];
+[self.&lt;#label#&gt; mas_makeConstraints:^(MASConstraintMaker *make) {
+    
+}];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>19CB2039-5F57-4307-99E8-3AFD7EE0B892</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UILabel_Init</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

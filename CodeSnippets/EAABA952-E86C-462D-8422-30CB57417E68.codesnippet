@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>alert</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>[SSZAlertView showAlertTitle:&lt;#(nonnull NSString *)#&gt; message:&lt;#(nonnull NSString *)#&gt; cancelTitle:&lt;#(nonnull NSString *)#&gt; actionTitle:&lt;#(nonnull NSString *)#&gt; cancelHandler:&lt;#^(void)cancelHandler#&gt; actionHandler:&lt;#^(void)actionHandler#&gt;];</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EAABA952-E86C-462D-8422-30CB57417E68</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>temp_alert</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
